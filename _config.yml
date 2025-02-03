@@ -13,10 +13,10 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://zakuoooo.github.io/myblog
-root: /myblog/
-# url: https://chikage.cn  # 确保此处是新域名
-# root: /
+# url: https://zakuoooo.github.io/myblog
+# root: /myblog/
+url: https://chikage.cn  # 确保此处是新域名
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
